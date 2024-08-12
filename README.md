@@ -29,3 +29,10 @@ The objective of this project is to accurately predict the severity levels of so
   - **Precision, Recall, and F1-Score**: Evaluated for each class to understand the model's performance in distinguishing between different severity levels.
   - **Confusion Matrix**: Visualized to assess the model's performance across all classes.
   - **ROC-AUC and Precision-Recall AUC**: Used to measure the model's ability to distinguish between classes, particularly useful in imbalanced datasets.
+
+## Contributors
+
+This project was developed and completed by the following contributors:
+
+- **İpek Uzun** - (https://github.com/ipek-uzun)
+- **Selman Yılmaz** - (https://github.com/mesely)
